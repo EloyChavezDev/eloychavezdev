@@ -7,7 +7,7 @@ sections:
       Thank you for contacting us. We will get back in touch with you soon. Have
       a great day!
     actions:
-      - label: 'Regresar '
+      - label: 'Regresar al Home '
         url: /
         style: primary
     align: center
