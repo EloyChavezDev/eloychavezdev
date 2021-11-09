@@ -13,6 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
+author: content/data/team/dianne-ameter.yaml
 ---
 ## Lorem ipsum
 
