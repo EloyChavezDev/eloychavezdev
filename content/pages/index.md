@@ -20,37 +20,6 @@ sections:
     padding_bottom: none
     background_color: primary
     subtitle: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 | \U0001F453 MERN Apprentice | \U0001F4DA Nunca Paro de Aprender"
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
