@@ -32,7 +32,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Coloca tu email
         is_required: true
     submit_label: Subscribirse
     padding_top: medium
