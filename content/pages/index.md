@@ -5,7 +5,7 @@ sections:
     title: 'Hi, soy Eloy Chavez'
     content: "Mexicano, trabajo como auxiliar de sistemas en la[\_Universidad Continente Americano,](https://uca.edu.mx/)\_así como encargado de la plataforma classroom para el\_[Instituto Americano,](http://instituto-americano.edu.mx/)\_un apasionado de la enseñanza adoptando nuevas tecnologías para la enseñanza efectiva en línea.\n\n"
     actions:
-      - label: Redes
+      - label: Redes Sociales
         url: /pricing
         style: primary
       - label: Learn More
