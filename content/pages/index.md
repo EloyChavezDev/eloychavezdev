@@ -56,7 +56,7 @@ sections:
       - input_type: email
         name: email
         label: email
-        default_value: lorem-ipsum
+        default_value: Coloca tu email
         options: []
         is_required: false
     submit_label: lorem-ipsum
