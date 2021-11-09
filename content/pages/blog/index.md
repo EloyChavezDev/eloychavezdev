@@ -39,6 +39,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: primary
+    subtitle: "Libre de SPAM \U0001F609"
 seo:
   title: Blog
   description: This is the blog page
