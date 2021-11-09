@@ -8,7 +8,7 @@ excerpt: >-
   Así me sentí yo minutos antes de participar como Speaker en el Open Stage
   durante esta PlatziConf 2021, pero cuando comencé a hablar todas esas
   sensaciones desaparecieron rápidamente
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Perder el miedo a hablar en publico
 image_alt: lorem-ipsum
 image_position: top
 seo:
