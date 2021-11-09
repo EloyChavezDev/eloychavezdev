@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
+    title: ¿Que aprenderas hoy?
     align: center
     padding_top: medium
     padding_bottom: none
