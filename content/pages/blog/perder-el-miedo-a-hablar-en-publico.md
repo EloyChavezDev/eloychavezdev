@@ -18,6 +18,7 @@ seo:
   extra: []
 layout: post
 author: content/data/team/dianne-ameter.yaml
+thumb_image: /images/team-meeting-online-conference-call-on-laptop.jpg
 ---
 ## Lorem ipsum
 
