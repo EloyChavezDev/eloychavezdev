@@ -59,7 +59,7 @@ sections:
         default_value: Coloca tu email
         options: []
         is_required: true
-    submit_label: lorem-ipsum
+    submit_label: Suscribirse
     align_vert: top
     padding_top: medium
     padding_bottom: medium
