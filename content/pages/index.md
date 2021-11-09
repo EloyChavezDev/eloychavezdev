@@ -20,18 +20,6 @@ sections:
     padding_bottom: none
     background_color: primary
     subtitle: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 | \U0001F453 MERN Apprentice | \U0001F4DA Nunca Paro de Aprender"
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
