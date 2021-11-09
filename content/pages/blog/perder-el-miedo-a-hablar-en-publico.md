@@ -1,6 +1,5 @@
 ---
 title: 5 Tips para perder el miedo a hablar en público remotamente
-subtitle: lorem-ipsum
 date: '2021-11-09'
 categories: []
 tags: []
