@@ -4,7 +4,10 @@ date: '2021-11-09'
 categories:
   - content/data/categories/category-w23hv3j58.json
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Así me sentí yo minutos antes de participar como Speaker en el Open Stage
+  durante esta PlatziConf 2021, pero cuando comencé a hablar todas esas
+  sensaciones desaparecieron rápidamente
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
