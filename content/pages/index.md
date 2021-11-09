@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: ¡SUSCRÍBETE AL NEWSLETTER!
     subtitle: lorem-ipsum
     title_align: left
     content: >-
