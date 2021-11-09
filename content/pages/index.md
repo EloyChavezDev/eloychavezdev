@@ -45,8 +45,6 @@ sections:
   - section_id: lorem-ipsum
     title: ¡SUSCRÍBETE AL NEWSLETTER!
     title_align: center
-    content: |
-      *
     content_align: left
     form_position: bottom
     form_width: fifty
