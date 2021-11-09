@@ -143,7 +143,8 @@
                 "new_window": true
             }
         ],
-        "content": "© ELOYCHAVEZDEV DESDE 1989. TODOS LOS IZQUIERDOS RESERVADOS."
+        "content": "© ELOYCHAVEZDEV DESDE 1989. TODOS LOS IZQUIERDOS RESERVADOS.",
+        "logo": "/images/Diseño sin título (1).png"
     },
     "announcement": {
         "has_anncmnt": true,
