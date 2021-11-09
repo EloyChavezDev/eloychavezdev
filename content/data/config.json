@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://eloychavezdev-a743e.netlify.app"
+    "domain": "https://eloychavezdev-a743e.netlify.app",
+    "favicon": "/images/perfil.png"
 }
