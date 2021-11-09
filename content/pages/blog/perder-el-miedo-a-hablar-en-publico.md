@@ -27,7 +27,7 @@ image: /images/team-meeting-online-conference-call-on-laptop.jpg
 
 Te invito a imaginar por un momento el estar frente a una multitud de personas que no conoces, que te ven fijamente desde casi todo el mundo, sus miradas centradas en ti, sus oídos atentos a lo que dices y están ahí para escucharte hablar en un evento que sin duda es de los más importantes de América Latina y Habla Hispana. Sientes incertidumbre, ansiedad, nervios, todos desencadenan un miedo que te hace sudar frio e incluso tiemblan tus piernas.
 
-![](https://www.eloychavez.dev/images/Captura%20de%20pantalla%202021-10-16%20142527-ef574a57-9bbe-441d-9051-1410b9d7a1b9-c025fbba.png)
+![](/images/Captura%20de%20pantalla%202021-10-16%20142527-ef574a57-9bbe-441d-9051-1410b9d7a1b9.png)
 
 Así me sentí yo minutos antes de participar como Speaker en el Open Stage durante esta [PlatziConf 2021](https://platzi.com/conf/), pero cuando comencé a hablar todas esas sensaciones desaparecieron rápidamente, logrando transmitir mi mensaje con la misma pasión que siento por ser parte de esta hermosa comunidad de Platzinautas, es así que desde mi experiencia te compartiré “las técnicas secretas” que use para lograrlo.
 
