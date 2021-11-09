@@ -22,7 +22,7 @@ sections:
   - type: form_section
     title: ¡SUSCRÍBETE AL NEWSLETTER!
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: "Libre de SPAM \U0001F609\n\n"
     content_align: center
     form_position: bottom
     form_layout: inline
