@@ -70,7 +70,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    content: "Libre de SPAM \U0001F609\n"
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
