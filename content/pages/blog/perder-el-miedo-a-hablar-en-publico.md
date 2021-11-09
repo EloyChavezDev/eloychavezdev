@@ -10,7 +10,7 @@ excerpt: >-
   sensaciones desaparecieron rápidamente
 thumb_image_alt: Perder el miedo a hablar en publico
 image_alt: Perder el miedo a hablar en publico
-image_position: top
+image_position: left
 seo:
   title: ''
   description: ''
