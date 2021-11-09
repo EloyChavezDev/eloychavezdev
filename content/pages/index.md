@@ -8,7 +8,7 @@ sections:
       - label: Redes Sociales
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Charlemos
         url: /features
         style: secondary
     image: /images/perfilt.png
