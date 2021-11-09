@@ -44,7 +44,8 @@
                 "url": "/pricing",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/Eloy Chavez.svg"
     },
     "footer": {
         "logo_alt": "EloyChavez.Dev Logo",
