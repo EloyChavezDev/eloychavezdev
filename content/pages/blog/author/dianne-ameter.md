@@ -8,7 +8,7 @@ sections:
     padding_bottom: none
     background_color: none
   - type: blog_feed_section
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: true
     show_recent: false
     author: content/data/team/dianne-ameter.yaml
