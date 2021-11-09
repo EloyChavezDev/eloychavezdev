@@ -82,7 +82,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: ¿Que Aprenderas hoy?
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
