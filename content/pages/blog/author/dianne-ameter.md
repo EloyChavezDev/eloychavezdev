@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Eloy Chavez
 sections:
   - type: hero_section
     title: Dianne Ameter
