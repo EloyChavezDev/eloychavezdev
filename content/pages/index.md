@@ -84,7 +84,6 @@ sections:
     background_color: secondary
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
