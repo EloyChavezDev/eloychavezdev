@@ -85,7 +85,7 @@ sections:
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: true
     show_recent: true
     recent_count: 4
