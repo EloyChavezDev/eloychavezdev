@@ -83,7 +83,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - section_id: ¿Qué aprenderás hoy?
-    title: lorem-ipsum
+    title: ¿Qué aprenderás hoy?
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
