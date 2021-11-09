@@ -20,22 +20,6 @@ sections:
     padding_bottom: none
     background_color: primary
     subtitle: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 | \U0001F453 MERN Apprentice | \U0001F4DA Nunca Paro de Aprender"
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
