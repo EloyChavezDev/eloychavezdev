@@ -13,7 +13,7 @@ sections:
     show_recent: false
     author: content/data/team/dianne-ameter.yaml
     show_date: true
-    show_categories: true
+    show_categories: false
     show_author: true
     show_excerpt: true
     show_image: true
