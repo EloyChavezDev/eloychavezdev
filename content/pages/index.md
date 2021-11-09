@@ -51,7 +51,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: subscribeForm
-    form_action: lorem-ipsum
+    form_action: thank-you/
     form_fields:
       - input_type: email
         name: lorem-ipsum
