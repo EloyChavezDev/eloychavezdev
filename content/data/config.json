@@ -148,7 +148,7 @@
     "announcement": {
         "has_anncmnt": true,
         "anncmnt_content": "Usamos cookies de terceros para rastrear cómo usa nuestro sitio web, por ejemplo, qué páginas visita y cuánto tiempo pasa en ellas. Esto nos ayuda a comprender mejor cómo las personas usan nuestro sitio y cómo acceden a él, lo que nos ayuda a crear mejores campañas.\n\nConsulta nuestro [*Aviso de Privacidad.*](https://codegg.mx/privacy-policy/)\n\n",
-        "anncmnt_align": "left",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
