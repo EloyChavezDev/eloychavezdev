@@ -2,7 +2,7 @@
 title: Eloy Chavez
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Eloy Chavez
     subtitle: The optional subtitle
     align: center
     padding_top: medium
