@@ -34,11 +34,6 @@
                 "no_follow": false
             },
             {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
-            },
-            {
                 "label": "Certificados",
                 "url": "#",
                 "style": "link",
@@ -47,6 +42,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Get Started",
+                "url": "/pricing",
+                "style": "primary"
             }
         ],
         "logo": "/images/logo.png"
