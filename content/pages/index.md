@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: 'Hi, soy Eloy Chavez'
     subtitle: Optional hero section subtitle
     content: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 | \U0001F453 MERN Apprentice | \U0001F4DA Nunca Paro de Aprender\n\n"
     actions:
