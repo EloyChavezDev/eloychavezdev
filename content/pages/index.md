@@ -19,11 +19,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    subtitle: >-
-      Mexicano, trabajo como auxiliar de sistemas en la Universidad Continente
-      Americano, así como encargado de la plataforma classroom para el Instituto
-      Americano, un apasionado de la enseñanza adoptando nuevas tecnologías para
-      la enseñanza efectiva en línea.
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
