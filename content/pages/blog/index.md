@@ -31,7 +31,7 @@ sections:
     form_fields:
       - input_type: email
         name: email
-        label: Email
+        label: email
         default_value: Coloca tu email
         is_required: true
     submit_label: Subscribirse
