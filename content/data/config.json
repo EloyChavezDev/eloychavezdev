@@ -10,13 +10,7 @@
         "title": "EloyChavez.Dev",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
