@@ -3,7 +3,6 @@ title: lorem-ipsum
 sections:
   - section_id: Platzi
     title: Platzi
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
