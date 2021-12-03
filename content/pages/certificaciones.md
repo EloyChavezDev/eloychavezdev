@@ -26,7 +26,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/como-cerrar-negocios.webp
-      - title: lorem-ipsum
+      - title: Historia de Bitcoin y Criptomonedas
         subtitle: lorem-ipsum
         title_align: left
         content: >-
