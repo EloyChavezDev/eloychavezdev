@@ -28,7 +28,7 @@ sections:
         image: /images/como-cerrar-negocios.webp
       - title: Historia de Bitcoin y Criptomonedas
         title_align: center
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
