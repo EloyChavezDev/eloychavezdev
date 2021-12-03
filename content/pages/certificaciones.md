@@ -16,6 +16,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: >-
+          /images/como-cerrar-negocios_badge-418508a5-1c9c-466e-84de-d0dae28b4891.webp
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
