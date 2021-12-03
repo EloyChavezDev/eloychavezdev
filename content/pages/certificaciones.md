@@ -30,7 +30,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Agosto 2021
             url: '#'
             style: link
             has_icon: false
