@@ -5,7 +5,7 @@ sections:
     title: Platzi
     actions: []
     grid_items:
-      - title: Audiocurso de Cómo Cerrar Negocios
+      - title: Cómo Cerrar Negocios
         title_align: center
         content_align: left
         actions: []
