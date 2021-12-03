@@ -51,7 +51,8 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: >-
+              https://platzi.com/p/EloyChavez/curso/2375-transformacion-digital/diploma/detalle/
             url: '#'
             style: link
             has_icon: false
