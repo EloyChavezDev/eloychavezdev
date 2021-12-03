@@ -47,7 +47,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/bagde-historia-bitcoin-criptomonedas.webp
-      - title: lorem-ipsum
+      - title: Audiocurso de Introducción a la Transformación Digital
         subtitle: lorem-ipsum
         title_align: left
         content: >-
