@@ -7,7 +7,7 @@ sections:
     grid_items:
       - title: Audiocurso de Cómo Cerrar Negocios
         title_align: center
-        content_align: left
+        content_align: center
         actions:
           - label: Octubre 2021
             url: >-
