@@ -19,7 +19,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    subtitle: "\U0001F469\U0001F3FB‍\U0001F680 Platzinauta. \U0001F3A4 Speaker #PlatziConf. \U0001F49A #Platzi Associate. \U0001F4DA Nunca Paro de Aprender."
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
