@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title: Cómo Cerrar Negocios
-        title_align: center
+        title_align: left
         content_align: left
         actions:
           - label: Octubre 2021
