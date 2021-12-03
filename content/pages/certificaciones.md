@@ -68,7 +68,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/badges-categoria-negocios-emprendimiento-3c46d54a.webp
-      - title: lorem-ipsum
+      - title: Audiocurso para Prevenir el Burnout en tu Empresa
         subtitle: lorem-ipsum
         title_align: left
         content: >-
