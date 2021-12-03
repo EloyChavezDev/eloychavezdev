@@ -19,9 +19,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    subtitle: >-
-      Woman astronaut Platzinauta. Microphone Speaker #PlatziConf. Green heart
-      #Platzi Associate. Books Nunca Paro de Aprender.
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
