@@ -27,7 +27,7 @@ sections:
         image_has_padding: false
         image: /images/como-cerrar-negocios.webp
       - title: Historia de Bitcoin y Criptomonedas
-        title_align: left
+        title_align: center
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
