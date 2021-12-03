@@ -137,7 +137,8 @@
             }
         ],
         "content": "© ELOYCHAVEZDEV DESDE 1989. TODOS LOS IZQUIERDOS RESERVADOS.",
-        "logo": "/images/Eloy Chavez.svg"
+        "logo": "/images/Eloy Chavez.svg",
+        "primary_nav_title": "About"
     },
     "announcement": {
         "has_anncmnt": true,
