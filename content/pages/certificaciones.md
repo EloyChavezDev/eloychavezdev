@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: Platzi
-    title: lorem-ipsum
+    title: Platzi
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
