@@ -69,7 +69,6 @@ sections:
         image_has_padding: false
         image: /images/badges-categoria-negocios-emprendimiento-3c46d54a.webp
       - title: Audiocurso para Prevenir el Burnout en tu Empresa
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
