@@ -17,7 +17,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/como-cerrar-negocios.webp
-        subtitle: =Ctubre 2021
+        subtitle: Octuubre 2021
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
