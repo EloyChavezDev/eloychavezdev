@@ -31,7 +31,8 @@ sections:
         content_align: center
         actions:
           - label: Agosto 2021
-            url: '#'
+            url: >-
+              https://platzi.com/p/EloyChavez/curso/2443-historia-bitcoin/diploma/detalle/
             style: secondary
             has_icon: false
             icon: arrow-left
