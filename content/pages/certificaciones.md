@@ -10,7 +10,8 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: >-
+              https://platzi.com/p/EloyChavez/curso/2523-cierre-negocios/diploma/detalle/
             style: link
             has_icon: false
             icon: arrow-left
