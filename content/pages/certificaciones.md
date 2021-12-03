@@ -6,7 +6,6 @@ sections:
     actions: []
     grid_items:
       - title: Audiocurso de Cómo Cerrar Negocios
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
