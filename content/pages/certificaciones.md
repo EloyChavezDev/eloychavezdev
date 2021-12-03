@@ -24,7 +24,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image: /images/como-cerrar-negocios.webp
       - title: Historia de Bitcoin y Criptomonedas
         title_align: center
