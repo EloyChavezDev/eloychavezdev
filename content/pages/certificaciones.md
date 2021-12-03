@@ -12,7 +12,7 @@ sections:
           - label: Octubre 2021
             url: >-
               https://platzi.com/p/EloyChavez/curso/2523-cierre-negocios/diploma/detalle/
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
