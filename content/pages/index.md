@@ -72,7 +72,6 @@ sections:
     subtitle: "Libre de SPAM \U0001F609"
 seo:
   title: EloyChavezDev
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
