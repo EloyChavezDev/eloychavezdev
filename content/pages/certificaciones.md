@@ -52,7 +52,8 @@ sections:
         content_align: center
         actions:
           - label: Julio 2021
-            url: '#'
+            url: >-
+              https://platzi.com/p/EloyChavez/curso/2375-transformacion-digital/diploma/detalle/
             style: link
             has_icon: false
             icon: arrow-left
