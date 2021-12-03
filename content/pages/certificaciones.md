@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Platzi
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
