@@ -71,7 +71,7 @@ sections:
     type: form_section
     subtitle: "Libre de SPAM \U0001F609"
 seo:
-  title: Stackbit DIY Theme
+  title: EloyChavezDev
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
