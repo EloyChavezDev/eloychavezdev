@@ -9,7 +9,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Octubre 2021
             url: >-
               https://platzi.com/p/EloyChavez/curso/2523-cierre-negocios/diploma/detalle/
             style: link
