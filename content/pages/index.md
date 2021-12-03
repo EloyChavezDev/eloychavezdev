@@ -19,7 +19,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    subtitle: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 | \U0001F453 MERN Apprentice | \U0001F4DA Nunca Paro de Aprender"
+    subtitle: >-
+      Woman astronaut Platzinauta. Microphone Speaker #PlatziConf. Green heart
+      #Platzi Associate. Books Nunca Paro de Aprender.
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
