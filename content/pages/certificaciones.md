@@ -88,6 +88,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: /images/piezas-prevencion-burnout-empresa.webp
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
