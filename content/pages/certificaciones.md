@@ -73,7 +73,8 @@ sections:
         content_align: center
         actions:
           - label: Noviembre 2021
-            url: '#'
+            url: >-
+              https://platzi.com/p/EloyChavez/curso/2615-burnout-empresas/diploma/detalle/
             style: link
             has_icon: false
             icon: arrow-left
