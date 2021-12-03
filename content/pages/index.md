@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, soy Eloy Chavez'
-    content: "Mexicano, trabajo como auxiliar de sistemas en la[\_Universidad Continente Americano,](https://uca.edu.mx/)\_así como encargado de la plataforma classroom para el\_[Instituto Americano,](http://instituto-americano.edu.mx/)\_un apasionado de la enseñanza adoptando nuevas tecnologías para la enseñanza efectiva en línea.\n\n"
+    content: "\U0001F469\U0001F3FB‍\U0001F680 Platzinauta.\r\n\U0001F3A4 Speaker #PlatziConf.\r\n\U0001F49A #Platzi Associate.\r\n\U0001F4DA Nunca Paro de Aprender.\n"
     actions:
       - label: Redes Sociales
         url: /pricing
