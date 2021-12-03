@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, soy Eloy Chavez'
-    content: "\U0001F469\U0001F3FB‍\U0001F680 Platzinauta.\n\n\r\n\U0001F3A4 Speaker #PlatziConf.\n\n\r\n\U0001F49A #Platzi Associate.\n\n\r\n\U0001F4DA Nunca Paro de Aprender.\n"
+    content: "## \U0001F469\U0001F3FB‍\U0001F680 Platzinauta.\n\n## \U0001F3A4 Speaker #PlatziConf.\n\n## \U0001F49A #Platzi Associate.\n\n## \U0001F4DA Nunca Paro de Aprender.\n"
     actions:
       - label: Redes Sociales
         url: /pricing
