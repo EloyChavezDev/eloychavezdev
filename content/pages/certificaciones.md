@@ -104,7 +104,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: ''
+  title: "\U0001F393 Certificados"
   description: ''
   robots: []
   extra: []
