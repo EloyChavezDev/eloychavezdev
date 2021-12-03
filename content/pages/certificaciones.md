@@ -67,7 +67,7 @@ sections:
         image_width: fifty
         image_align: center
         image_has_padding: false
-        image: /images/badges-categoria-negocios-emprendimiento.webp
+        image: /images/badges-categoria-negocios-emprendimiento-3c46d54a.webp
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
