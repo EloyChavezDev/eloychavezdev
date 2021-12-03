@@ -57,7 +57,7 @@
         "primary_nav_links": [
             {
                 "label": "Certificados",
-                "url": "#",
+                "url": "https://www.eloychavez.dev/certificaciones/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
