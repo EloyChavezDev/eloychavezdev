@@ -48,7 +48,7 @@ sections:
         image_has_padding: false
         image: /images/bagde-historia-bitcoin-criptomonedas.webp
       - title: Audiocurso de Introducción a la Transformación Digital
-        title_align: left
+        title_align: center
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
