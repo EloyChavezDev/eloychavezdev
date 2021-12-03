@@ -47,7 +47,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/bagde-historia-bitcoin-criptomonedas.webp
-      - title: Audiocurso de Introducción a la Transformación Digital
+      - title: Introducción a la Transformación Digital
         title_align: center
         content_align: center
         actions:
