@@ -19,7 +19,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    has_border: true
+    has_border: false
   - section_id: ¿Qué aprenderás hoy?
     title: ¿Qué aprenderás hoy?
     actions: []
