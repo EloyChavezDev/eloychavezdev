@@ -1,102 +1,43 @@
-# ✨ DIY Nextjs Theme ✨
+Hi 👋 My name is Eloy Chavez
+============================
 
-This is Stackbit's "DIY" theme built with [Next.js](https://nextjs.org/) and
-powered by content stored in files.
+Web Developer and Eternal Student
+---------------------------------
 
-Click the button below to create a new website from this theme using Stackbit:
+🇲🇽 SP/EN 🇺🇸 💚 Platzi Associate ✍🏻 +3500 Respuestas http://bit.ly/EloyCh 🎤 Speaker #PlatziConf 2021 🌆 1st #SynthwaveCode 📚 Nunca paro de aprender
 
-<p align="center">
-  <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
+* 🌍  I'm based in Mexico
+* 🖥️  See my portfolio at [www.eloychavez.dev](http://www.eloychavez.dev/)
+* ✉️  You can contact me at [laneloychavez@gmail.com](mailto:laneloychavez@gmail.com)
+* 🚀  I'm currently working on [Platzi](http://platzi.com/p/EloyChavezDev/)
+* 🧠  I'm learning JavaScript (JS)
+
+<a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/EloyChavezDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/EloyChavezDev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
-[Live Site Demo](https://themes.stackbit.com/demos/diy/)
 
-<img src="https://themes.stackbit.com/images/diy-demo-1024x768.png" width="600">
+### Socials
 
-The theme can be used to create a static website that is hosted by a serverless
-deployment platform such as [Netlify](https://www.netlify.com). The contents of
-the website are stored in git with the rest of the site's code.
+<p align="left"> <a href="https://www.github.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-When deploying the website, [Sourcebit](https://github.com/stackbithq/sourcebit)
-reads the site's contents from files and provides it to Next.js. Once Next.js
-finishes generating the static website, [Netlify](https://www.netlify.com) pushes
-the static files to its CDN.
+### Badges
 
-[Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically
-[`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem)
-and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next),
-are used to read the site's contents from files, normalize it, and provide it to
-Next.js pages. It also sets up live updates in development mode allowing you to
-update the content files and instantly see your updates in the browser.
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/EloyChavezDev"><img src="https://github-readme-stats.vercel.app/api?username=EloyChavezDev&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EloyChavezDev's GitHub stats" /></a>
 
-## Quick Start 🏎
-
-[Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
-
-Stackbit will execute following steps for you
-
-- Create a new GitHub repository with the contents of this repository.
-- Create [Netlify](https://www.netlify.com) site connected to the GitHub repo
-- Deploy the Netlify site.
-- Create a "commit" webhook in GitHub that will trigger Netlify deployment as
-  soon as new commit is pushed to GitHub.
-- Create a Stackbit project that will allow you edit your website via on-page
-  visual editing experience. 
-
-
-## Editing Content 📝
-
-Once Stackbit creates a site, you can start editing the content using the free
-on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
-
-Here's a few resources to get you started:
-
-- 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://stackbit.link/project-readme-adding-video)
-- 📺 &nbsp; [Collaboration](https://stackbit.link/project-readme-collaboration-video)
-- 📺 &nbsp; [Publishing](https://stackbit.link/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://stackbit.link/project-readme-documentation)
-
-If you need a hand, make sure to check the [Stackbit support page](https://stackbit.link/project-readme-support).
-
-
-## Develop Locally
-
-1. [Create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme using Stackbit.
-
-1. Once finished, you will be redirected to Stackbit Studio where you will be
-   able to edit the content using the free on-page editing experience, and
-   publish new versions of your site.
-
-1. To further develop your site, clone the generated repository.
-
-1. Install dependencies
-
-       npm install
-       
-1. Start the Next.js local development server:
-
-        npm run develop
-
-1. Open [http://localhost:3000/](http://localhost:3000/) in the browser to see
-   your site. You can now edit the site contents, and the browser will
-   live-update your changes. 🎉
-
-
-## Building for production 🏗
-
-To build a static site for production, or test locally how it works, run the
-following command:
-
-    npm run build
-
-The exported site will be written to `out` folder. The contents of this folder 
-can be deployed by serverless deployment platform such as [Netlify](https://www.netlify.com).
-You can start a local server serving the static files from the `out` folder, for
-example by installing and running `http-server`:
-
-    npm install http-server -g
-    http-server out
+<a href="https://github.com/EloyChavezDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
