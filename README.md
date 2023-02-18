@@ -4,13 +4,21 @@ Hi 👋 My name is Eloy Chavez
 Web Developer and Eternal Student
 ---------------------------------
 
-🇲🇽 SP/EN 🇺🇸 💚 Platzi Associate ✍🏻 +3500 Respuestas http://bit.ly/EloyCh 🎤 Speaker #PlatziConf 2021 🌆 1st #SynthwaveCode 📚 Nunca paro de aprender
+🇲🇽 SP/EN 🇺🇸 
+💜 Apasionado de la tecnología y coleccionista geek
+👨‍💻 DevOps Universidad Continente Americano
+✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
+🎤 Speaker #PlatziConf 2021
+🎤 Speaker UCA 2022
+🌐#Web3 citizen
+🌆 1st #SynthwaveCode 
+📚 Nunca paro de aprender
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [www.eloychavez.dev](http://www.eloychavez.dev/)
 * ✉️  You can contact me at [laneloychavez@gmail.com](mailto:laneloychavez@gmail.com)
-* 🚀  I'm currently working on [Platzi](http://platzi.com/p/EloyChavezDev/)
-* 🧠  I'm learning JavaScript (JS)
+* 🚀  I'm currently working on [UCA](https://uca.edu.mx/)
+* 🧠  I'm learning Python (🐍)
 
 <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/EloyChavezDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
