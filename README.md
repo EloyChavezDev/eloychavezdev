@@ -4,17 +4,17 @@ Hi 👋 My name is Eloy Chavez
 Content Creator & Web Development Trainee
 ---------------------------------
 
-🇲🇽 SP/EN 🇺🇸 
-📁 Tecnólogo
-↳✍️ Creador de Contenido
-↳👨🏻‍💻 Aprendiendo Desarrollo Web
-↳🎮 Gamer & Geek
-👨‍💻 DevOps Universidad Continente Americano
-✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
-🎤 Speaker #PlatziConf 2021
-🎤 Speaker UCA 2022 & 2023
-🌐 Web3 citizen
-📚 Nunca paro de aprender
+🇲🇽 SP/EN 🇺🇸 </br>
+📁 Tecnólogo </br>
+↳✍️ Creador de Contenido </br>
+↳👨🏻‍💻 Aprendiendo Desarrollo Web </br>
+↳🎮 Gamer & Geek </br>
+👨‍💻 DevOps Universidad Continente Americano </br>
+✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh </br>
+🎤 Speaker #PlatziConf 2021 </br>
+🎤 Speaker UCA 2022 & 2023 </br>
+🌐 Web3 citizen </br>
+📚 Nunca paro de aprender </br>
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [www.eloychavez.dev](http://www.eloychavez.dev/)
