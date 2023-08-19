@@ -1,17 +1,19 @@
 Hi 👋 My name is Eloy Chavez
 ============================
 
-Web Developer and Eternal Student
+Content Creator & Web Development Trainee
 ---------------------------------
 
 🇲🇽 SP/EN 🇺🇸 
-💜 Apasionado de la tecnología y coleccionista geek
+📁 Tecnólogo
+↳✍️ Creador de Contenido
+↳👨🏻‍💻 Aprendiendo Desarrollo Web
+↳🎮 Gamer & Geek
 👨‍💻 DevOps Universidad Continente Americano
 ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
 🎤 Speaker #PlatziConf 2021
-🎤 Speaker UCA 2022
-🌐#Web3 citizen
-🌆 1st #SynthwaveCode 
+🎤 Speaker UCA 2022 & 2023
+🌐 Web3 citizen
 📚 Nunca paro de aprender
 
 * 🌍  I'm based in Mexico
@@ -22,7 +24,7 @@ Web Developer and Eternal Student
 
 <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/EloyChavezDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/EloyChavezDev" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.twitch.tv/EloyChavez_Dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
@@ -40,7 +42,7 @@ src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/EloyChavez_Dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
