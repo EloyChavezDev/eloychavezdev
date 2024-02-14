@@ -53,6 +53,4 @@ src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-
 
 <a href="http://www.github.com/EloyChavezDev"><img src="https://github-readme-stats.vercel.app/api?username=EloyChavezDev&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EloyChavezDev's GitHub stats" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&layout=compact)
-
-<a href="https://github.com/EloyChavezDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&layout=compact&theme=tokyonight)
