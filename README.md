@@ -6,9 +6,11 @@ Content Creator & Web Development Trainee
 
 🇲🇽 SP/EN 🇺🇸 </br>
 📁 Tecnólogo </br>
-↳✍️ Creador de Contenido </br>
-↳👨🏻‍💻 Aprendiendo Desarrollo Web </br>
+↳🎤 Speaker </br>
+↳🕵️ Life Hacking </br>
+↳✍️ Creador de Contenido Random </br>
 ↳🎮 Gamer & Geek </br>
+➡️ https://eloychavez.dev/social/⬅️</br>
 👨‍💻 DevOps Universidad Continente Americano </br>
 ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh </br>
 🎤 Speaker #PlatziConf 2021 </br>
