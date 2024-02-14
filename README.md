@@ -8,7 +8,20 @@ Content Creator & Hacking Trainee
 * ✉️  You can contact me at [laneloychavez@gmail.com](mailto:laneloychavez@gmail.com)
 * 🚀  I'm currently working on [UCA](https://uca.edu.mx/)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EloyChavezDev?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCq3v5b7J97e_i_RZE6eE4HQ?style=social"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/eloychavezdev?style=social">
+![Profile views counter](https://komarev.com/ghpvc/?username=EloyChavezDev&&style=flat-square)  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EloyChavezDev?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCq3v5b7J97e_i_RZE6eE4HQ?style=social"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/eloychavezdev?style=social">
+
+
+<div align="left">
+            <a href="https://www.paypal.com/donate/?hosted_button_id=BJMKZERS2JH4W" target="_blank" style="display: inline-block;">
+              <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="left"/>
+            </a>
+            <a href="https://www.buymeacoffee.com/eloychavezdev" target="_blank" style="display: inline-block;">
+              <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="left"/>
+            </a>  
+</div>  
+
+
+<br/>  <br/> 
 
 * 👨‍💻 DevOps Universidad Continente Americano
 * ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
