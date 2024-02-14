@@ -3,32 +3,32 @@ Hi There 👋
 
 Content Creator & Hacking Trainee
 ---------------------------------
-
-🇲🇽 SP/EN 🇺🇸 </br>
-📁 Tecnólogo </br>
-↳🎤 Speaker </br>
-↳🕵️ Life Hacking </br>
-↳✍️ Creador de Contenido Random </br>
-↳🎮 Gamer & Geek
-➡️ https://eloychavez.dev/social/⬅️
-
-👨‍💻 DevOps Universidad Continente Americano </br>
-✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh </br>
-🎤 Speaker #PlatziConf 2021 </br>
-🎤 Speaker UCA 2022 & 2023 </br>
-🌐 Web3 citizen </br>
-📚 Nunca paro de aprender </br>
-
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [www.eloychavez.dev](http://www.eloychavez.dev/)
 * ✉️  You can contact me at [laneloychavez@gmail.com](mailto:laneloychavez@gmail.com)
 * 🚀  I'm currently working on [UCA](https://uca.edu.mx/)
-* 🧠  I'm learning Python (🐍)
 
 <a href="https://www.twitter.com/EloyChavezDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/EloyChavezDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/EloyChavez_Dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+🇲🇽 SP/EN 🇺🇸
+📁 Tecnólogo 
+↳🎤 Speaker 
+↳🕵️ Life Hacking 
+↳✍️ Creador de Contenido Random 
+↳🎮 Gamer & Geek
+➡️ https://eloychavez.dev/social/⬅️
+
+👨‍💻 DevOps Universidad Continente Americano
+✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
+🎤 Speaker #PlatziConf 2021 
+🎤 Speaker UCA 2022 & 2023 
+🌐 Web3 citizen 
+📚 Nunca paro de aprender 
+
+
 
 ### Skills
 
@@ -52,5 +52,7 @@ src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/EloyChavezDev"><img src="https://github-readme-stats.vercel.app/api?username=EloyChavezDev&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EloyChavezDev's GitHub stats" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&layout=compact)
 
 <a href="https://github.com/EloyChavezDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloyChavezDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
