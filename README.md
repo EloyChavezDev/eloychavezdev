@@ -8,7 +8,7 @@ Content Creator & Hacking Trainee
 * ✉️  You can contact me at [laneloychavez@gmail.com](mailto:laneloychavez@gmail.com)
 * 🚀  I'm currently working on [UCA](https://uca.edu.mx/)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EloyChavezDev?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@eloychavezdev?style=social"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/eloychavezdev?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EloyChavezDev?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/Cq3v5b7J97e_i_RZE6eE4HQ?style=social"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/eloychavezdev?style=social">
 
 * 👨‍💻 DevOps Universidad Continente Americano
 * ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
