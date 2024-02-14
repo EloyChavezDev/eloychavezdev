@@ -13,22 +13,20 @@ src="https://img.shields.io/twitter/follow/EloyChavezDev?logo=twitter&style=for-
 /></a><a href="https://www.twitch.tv/EloyChavez_Dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/EloyChavezDev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-🇲🇽 SP/EN 🇺🇸
-📁 Tecnólogo 
-↳🎤 Speaker 
-↳🕵️ Life Hacking 
-↳✍️ Creador de Contenido Random 
-↳🎮 Gamer & Geek
-➡️ https://eloychavez.dev/social/⬅️
+* 🇲🇽 SP/EN 🇺🇸
+* 📁 Tecnólogo 
+* 🎤 Speaker 
+* 🕵️ Life Hacking 
+* ✍️ Creador de Contenido Random 
+* 🎮 Gamer & Geek
+* ➡️ https://eloychavez.dev/social/⬅️
 
-👨‍💻 DevOps Universidad Continente Americano
-✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
-🎤 Speaker #PlatziConf 2021 
-🎤 Speaker UCA 2022 & 2023 
-🌐 Web3 citizen 
-📚 Nunca paro de aprender 
-
-
+* 👨‍💻 DevOps Universidad Continente Americano
+* ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh 
+* 🎤 Speaker #PlatziConf 2021 
+* 🎤 Speaker UCA 2022 & 2023 
+* 🌐 Web3 citizen 
+* 📚 Nunca paro de aprender 
 
 ### Skills
 
