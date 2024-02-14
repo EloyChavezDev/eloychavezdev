@@ -1,7 +1,7 @@
-Hi 👋 My name is Eloy Chavez
+Hi There 👋
 ============================
 
-Content Creator & Web Development Trainee
+Content Creator & Hacking Trainee
 ---------------------------------
 
 🇲🇽 SP/EN 🇺🇸 </br>
@@ -9,8 +9,9 @@ Content Creator & Web Development Trainee
 ↳🎤 Speaker </br>
 ↳🕵️ Life Hacking </br>
 ↳✍️ Creador de Contenido Random </br>
-↳🎮 Gamer & Geek </br>
-➡️ https://eloychavez.dev/social/⬅️</br>
+↳🎮 Gamer & Geek
+➡️ https://eloychavez.dev/social/⬅️
+
 👨‍💻 DevOps Universidad Continente Americano </br>
 ✍🏻 +3500 Respuestas as Platzi Associate http://bit.ly/EloyCh </br>
 🎤 Speaker #PlatziConf 2021 </br>
