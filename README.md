@@ -9,7 +9,7 @@ Content Creator & Hacking Trainee
 * 🚀  I'm currently working on [UCA](https://uca.edu.mx/)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=EloyChavezDev&&style=flat-square)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq3v5b7J97e_i_RZE6eE4HQ?style=social)](https://youtube.com/eloychavezdev?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq3v5b7J97e_i_RZE6eE4HQ?style=social)](https://youtube.com/@EloyChavezDev?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/eloychavezdev?style=social)](https://twitch.com/eloychavezdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eloychavezdev?style=social)](https://twitter.com/eloychavezdev)
 ![GitHub Followers](https://img.shields.io/github/followers/eloychavezdev?style=social)
